@@ -1,4 +1,5 @@
 #codigo obtido no video https://youtu.be/Ok8O_QnrSBI?si=R83ZWAgrYer6nZQz
+#comentarios e updates do script: https://learndataanalysis.org/ms_graph-py-source-code/
 import webbrowser
 from datetime import datetime
 import json
